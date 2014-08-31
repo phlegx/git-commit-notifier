@@ -26,7 +26,7 @@ Gem::Specification.new do |s|
 
   s.specification_version = 3
 
-  s.add_runtime_dependency(%q<diff-lcs>, ["~> 1.1.2"])
+  s.add_runtime_dependency(%q<diff-lcs>, ["~> 1.2.5"])
   s.add_runtime_dependency(%q<nntp>, ["~> 1.0"])
   s.add_runtime_dependency(%q<premailer>, ["~> 1.7", ">= 1.7.1", "!= 1.7.2"])
   s.add_runtime_dependency(%q<nokogiri>, ["~> 1.4", "<= 1.6.2.1"])
